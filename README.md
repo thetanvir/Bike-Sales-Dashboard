@@ -23,6 +23,7 @@ Purchased Bike: Yes or No
 Note: The dataset is sourced from Alex The Analyst's GitHub repository.
 
 Project Steps
+
 Data Cleaning: Addressed missing values, corrected inconsistencies, and standardized data formats to ensure accuracy.
 
 Data Analysis: Explored relationships between variables to identify trends and factors influencing bike purchases.
@@ -30,6 +31,7 @@ Data Analysis: Explored relationships between variables to identify trends and f
 Data Visualization: Developed an interactive Excel dashboard featuring charts and graphs to effectively communicate insights.
 
 Key Insights
+
 Income Influence: Higher income levels correlate with an increased likelihood of purchasing a bike.
 
 Age Group Trends: Customers aged 30-40 are the most frequent bike purchasers.
@@ -37,6 +39,7 @@ Age Group Trends: Customers aged 30-40 are the most frequent bike purchasers.
 Commute Distance: Individuals commuting 2-5 miles are more inclined to buy bikes.
 
 Dashboard Features
+
 
 Interactive Filters: Allows users to segment data by region, occupation, and other demographics.
 
