@@ -47,11 +47,6 @@ Dynamic Charts: Visual representations update based on selected filters to displ
 
 Summary Metrics: Highlights key statistics such as total sales, average income of buyers, and demographic distributions.
 
-How to Use
-Download the Excel File: Bike_Sales_Dashboard.xlsx
-
-Open in Excel: Ensure macros are enabled to utilize interactive features.
-
 Interact with the Dashboard: Use the slicers and filters to explore different aspects of the data.
 
 Acknowledgments
